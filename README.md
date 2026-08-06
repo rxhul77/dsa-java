@@ -44,6 +44,8 @@ dsa-java/
 | Number | Problem    | Topic  | Pattern      | Solution                     |
 | -----: | ---------- | ------ | ------------ | ---------------------------- |
 |    167 | Two Sum II | Arrays | Two Pointers | [Java](arrays/TwoSumII.java) |
+| 125 | Valid Palindrome | Strings | Two Pointers | [Java](strings/ValidPalindrome.java) |
+
 
 ## Solution Format
 

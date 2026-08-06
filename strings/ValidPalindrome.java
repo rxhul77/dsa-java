@@ -1,8 +1,8 @@
 package strings;
 
 /**
+ * 
  * LeetCode 125: Valid Palindrome
- *
  * Pattern: Two Pointers
  * Time Complexity: O(n)
  * Space Complexity: O(1)
