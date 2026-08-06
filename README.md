@@ -66,4 +66,4 @@ I am consistently practising Data Structures and Algorithms and adding well-stru
 
 **Rahul**
 
-B.Tech Computer Science Engineering student specialising in Artificial Intelligence and Machine Learning.
+B.Tech Computer Science and Engineering student specialising in Artificial Intelligence and Machine Learning.
