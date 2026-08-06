@@ -64,6 +64,6 @@ I am consistently practising Data Structures and Algorithms and adding well-stru
 
 ## Author
 
-**Rahul Singh**
+**Rahul**
 
 B.Tech Computer Science Engineering student specialising in Artificial Intelligence and Machine Learning.
