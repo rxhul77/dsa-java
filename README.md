@@ -47,7 +47,7 @@ dsa-java/
 | 125 | Valid Palindrome | Strings | Two Pointers | LeetCode | [Java](strings/ValidPalindrome.java) |
 | — | Sum of Elements of Array | Arrays | Traversal | Practice | [Java](arrays/SumOfElement.java) |
 | — | Largest Element of Array | Arrays | Traversal | Practice | [Java](arrays/LargestElement.java) |
-| — | Print Negative Elements of Array | Arrays | Traversal | Practice | [Java](arrays/NegativeElements.java) |
+| — | Print Negative Elements of Array | Arrays | Traversal | Practice | [Java](arrays/NegetiveElements.java) |
 
 
 ## Solution Format
@@ -59,7 +59,7 @@ Each solution contains:
 * Java solution
 * Time complexity
 * Space complexity
-* Test example where appropriate
+* Test example
 
 ## Current Goal
 
