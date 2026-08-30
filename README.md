@@ -48,6 +48,7 @@ dsa-java/
 | — | Sum of Elements of Array | Arrays | Traversal | Practice | [Java](arrays/SumOfElement.java) |
 | — | Largest Element of Array | Arrays | Traversal | Practice | [Java](arrays/LargestElement.java) |
 | — | Print Negative Elements of Array | Arrays | Traversal | Practice | [Java](arrays/NegetiveElements.java) |
+| — | Product of Element of Array | Arrays | Traversal | Practice | [Java](arrays/ProductOfElement.java) |
 
 
 ## Solution Format
