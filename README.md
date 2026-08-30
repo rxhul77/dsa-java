@@ -45,9 +45,9 @@ dsa-java/
 |------:|---------|-------|---------|--------|----------|
 | 167 | Two Sum II | Arrays | Two Pointers | LeetCode | [Java](arrays/TwoSumII.java) |
 | 125 | Valid Palindrome | Strings | Two Pointers | LeetCode | [Java](strings/ValidPalindrome.java) |
-| — | Sum of Elements of Array | Arrays | Traversal | Practice | [Java](arrays/SumOfElements.java) |
+| — | Sum of Elements of Array | Arrays | Traversal | Practice | [Java](arrays/SumOfElement.java) |
 | — | Largest Element of Array | Arrays | Traversal | Practice | [Java](arrays/LargestElement.java) |
-| — | Print Negative Elements of Array | Arrays | Traversal | Practice | [Java](arrays/NegativeElement.java) |
+| — | Print Negative Elements of Array | Arrays | Traversal | Practice | [Java](arrays/NegativeElements.java) |
 
 
 ## Solution Format
