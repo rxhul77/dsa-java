@@ -41,10 +41,13 @@ dsa-java/
 
 ## Problems Solved
 
-| Number | Problem    | Topic  | Pattern      | Solution                     |
-| -----: | ---------- | ------ | ------------ | ---------------------------- |
-|    167 | Two Sum II | Arrays | Two Pointers | [Java](arrays/TwoSumII.java) |
-| 125 | Valid Palindrome | Strings | Two Pointers | [Java](strings/ValidPalindrome.java) |
+| Number | Problem | Topic | Pattern | Source | Solution |
+|------:|---------|-------|---------|--------|----------|
+| 167 | Two Sum II | Arrays | Two Pointers | LeetCode | [Java](arrays/TwoSumII.java) |
+| 125 | Valid Palindrome | Strings | Two Pointers | LeetCode | [Java](strings/ValidPalindrome.java) |
+| — | Sum of Elements of Array | Arrays | Traversal | Practice | [Java](arrays/SumOfElements.java) |
+| — | Largest Element of Array | Arrays | Traversal | Practice | [Java](arrays/LargestElement.java) |
+| — | Print Negative Elements of Array | Arrays | Traversal | Practice | [Java](arrays/NegativeElement.java) |
 
 
 ## Solution Format
