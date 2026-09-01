@@ -49,6 +49,8 @@ dsa-java/
 | — | Largest Element of Array | Arrays | Traversal | Practice | [Java](arrays/LargestElement.java) |
 | — | Print Negative Elements of Array | Arrays | Traversal | Practice | [Java](arrays/NegetiveElements.java) |
 | — | Product of Element of Array | Arrays | Traversal | Practice | [Java](arrays/ProductOfElement.java) |
+| — | Bubble Sort | Arrays | Sorting | Practice | [Java](arrays/BubbleSort.java) |
+| — | Selection Sort | Arrays | Sorting | Practice | [Java](arrays/SelectionSort.java) |
 
 
 ## Solution Format
