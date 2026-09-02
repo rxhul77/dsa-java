@@ -41,8 +41,8 @@ dsa-java/
 
 ## Problems Solved
 
-| Number | Problem | Topic | Pattern | Source | Solution |
-|------:|---------|-------|---------|--------|----------|
+| LeetCode # | Problem | Topic | Pattern | Source | Solution |
+|-----------:|---------|-------|---------|--------|----------|
 | 167 | Two Sum II | Arrays | Two Pointers | LeetCode | [Java](arrays/TwoSumII.java) |
 | 125 | Valid Palindrome | Strings | Two Pointers | LeetCode | [Java](strings/ValidPalindrome.java) |
 | — | Sum of Elements of Array | Arrays | Traversal | Practice | [Java](arrays/SumOfElement.java) |
@@ -51,6 +51,7 @@ dsa-java/
 | — | Product of Element of Array | Arrays | Traversal | Practice | [Java](arrays/ProductOfElement.java) |
 | — | Bubble Sort | Arrays | Sorting | Practice | [Java](arrays/BubbleSort.java) |
 | — | Selection Sort | Arrays | Sorting | Practice | [Java](arrays/SelectionSort.java) |
+| 1 | Two Sum | Arrays | Two Pointers | LeetCode | [Java](arrays/TwoSum.java) |
 
 
 ## Solution Format
