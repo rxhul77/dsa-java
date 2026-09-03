@@ -43,7 +43,7 @@ dsa-java/
 
 | LeetCode # | Problem | Topic | Pattern | Source | Solution |
 |-----------:|---------|-------|---------|--------|----------|
-| 167 | Two Sum II | Arrays | Two Pointers | LeetCode | [Java](arrays/TwoSumII.java) |
+| 167 | Two Sum II - Input Array Is Sorted | Arrays | Two Pointers | LeetCode | [Java](arrays/TwoSumII.java) |
 | 125 | Valid Palindrome | Strings | Two Pointers | LeetCode | [Java](strings/ValidPalindrome.java) |
 | — | Sum of Elements of Array | Arrays | Traversal | Practice | [Java](arrays/SumOfElement.java) |
 | — | Largest Element of Array | Arrays | Traversal | Practice | [Java](arrays/LargestElement.java) |
@@ -53,7 +53,7 @@ dsa-java/
 | — | Selection Sort | Arrays | Sorting | Practice | [Java](arrays/SelectionSort.java) |
 | 1 | Two Sum | Arrays | Two Pointers | LeetCode | [Java](arrays/TwoSum.java) |
 | 704 | Binary Search | Arrays | Binary Search | LeetCode | [Java](arrays/BinarySearch.java) |
-| 852 | PeakIndexMountainArray | Arrays | Binary Search | LeetCode | [Java](arrays/PeakIndexMountainArray.java) |
+| 852 | Peak Index in a Mountain Array | Arrays | Binary Search | LeetCode | [Java](arrays/PeakIndexMountainArray.java) |
 | 540 | Single Element in a Sorted Array | Arrays | Binary Search | LeetCode | [Java](arrays/SingleElementSortedArray.java) |
 | 441 | Arranging Coins | Arrays | Binary Search | LeetCode | [Java](arrays/ArrangingCoins.java) |
 | 2529 | Maximum Count of Positive Integer and Negative Integer | Arrays | Binary Search | LeetCode | [Java](arrays/MaximumCount.java) |
