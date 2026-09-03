@@ -1,4 +1,5 @@
 package arrays;
+
 public class BubbleSort {
     public static void print(int [] arr) {
         for (int ele : arr){

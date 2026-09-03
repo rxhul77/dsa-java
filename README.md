@@ -55,6 +55,8 @@ dsa-java/
 | 704 | Binary Search | Arrays | Binary Search | LeetCode | [Java](arrays/BinarySearch.java) |
 | 852 | PeakIndexMountainArray | Arrays | Binary Search | LeetCode | [Java](arrays/PeakIndexMountainArray.java) |
 | 540 | Single Element in a Sorted Array | Arrays | Binary Search | LeetCode | [Java](arrays/SingleElementSortedArray.java) |
+| 441 | Arranging Coins | Arrays | Binary Search | LeetCode | [Java](arrays/ArrangingCoins.java) |
+
 
 ## Solution Format
 

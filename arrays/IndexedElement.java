@@ -10,6 +10,6 @@ public class IndexedElement {
             else arr[i] *= 2;
             
         System.out.print(arr[i] + " ");
-        }
+        } //Output = 12 10 18 12 20
     }
 }
