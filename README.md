@@ -54,7 +54,7 @@ dsa-java/
 | 1 | Two Sum | Arrays | Two Pointers | LeetCode | [Java](arrays/TwoSum.java) |
 | 704 | Binary Search | Arrays | Binary Search | LeetCode | [Java](arrays/BinarySearch.java) |
 | 852 | PeakIndexMountainArray | Arrays | Binary Search | LeetCode | [Java](arrays/PeakIndexMountainArray.java) |
-
+| 540 | Single Element in a Sorted Array | Arrays | Binary Search | LeetCode | [Java](arrays/SingleElementSortedArray.java) |
 
 ## Solution Format
 
