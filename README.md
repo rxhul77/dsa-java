@@ -56,6 +56,7 @@ dsa-java/
 | 852 | PeakIndexMountainArray | Arrays | Binary Search | LeetCode | [Java](arrays/PeakIndexMountainArray.java) |
 | 540 | Single Element in a Sorted Array | Arrays | Binary Search | LeetCode | [Java](arrays/SingleElementSortedArray.java) |
 | 441 | Arranging Coins | Arrays | Binary Search | LeetCode | [Java](arrays/ArrangingCoins.java) |
+| 2529 | Maximum Count of Positive Integer and Negative Integer | Arrays | Binary Search | LeetCode | [Java](arrays/MaximumCount.java) |
 
 
 ## Solution Format
