@@ -53,6 +53,7 @@ dsa-java/
 | — | Selection Sort | Arrays | Sorting | Practice | [Java](arrays/SelectionSort.java) |
 | 1 | Two Sum | Arrays | Two Pointers | LeetCode | [Java](arrays/TwoSum.java) |
 | 704 | Binary Search | Arrays | Binary Search | LeetCode | [Java](arrays/BinarySearch.java) |
+| 852 | PeakIndexMountainArray | Arrays | Binary Search | LeetCode | [Java](arrays/PeakIndexMountainArray.java) |
 
 
 ## Solution Format
